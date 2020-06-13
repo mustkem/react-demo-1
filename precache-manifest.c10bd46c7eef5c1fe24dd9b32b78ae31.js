@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "562ed75cc57bf75ea9f2dad2d1b164bd",
+    "revision": "94febca30208d169d0eb3e8aa381899e",
     "url": "/react-workshop-indegene/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-workshop-indegene/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "72edbc8c03d876a38036",
+    "revision": "66d280e064c3a629407f",
     "url": "/react-workshop-indegene/static/css/main.862f648a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-workshop-indegene/static/js/2.f3178dab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72edbc8c03d876a38036",
-    "url": "/react-workshop-indegene/static/js/main.8e622ee5.chunk.js"
+    "revision": "66d280e064c3a629407f",
+    "url": "/react-workshop-indegene/static/js/main.aae74cad.chunk.js"
   },
   {
     "revision": "fb9e3e1c488b2a0ae716",

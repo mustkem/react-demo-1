@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-workshop-indegene/static/css/main.862f648a.chunk.css",
-    "main.js": "/react-workshop-indegene/static/js/main.8e622ee5.chunk.js",
-    "main.js.map": "/react-workshop-indegene/static/js/main.8e622ee5.chunk.js.map",
+    "main.js": "/react-workshop-indegene/static/js/main.aae74cad.chunk.js",
+    "main.js.map": "/react-workshop-indegene/static/js/main.aae74cad.chunk.js.map",
     "runtime-main.js": "/react-workshop-indegene/static/js/runtime-main.c46af51c.js",
     "runtime-main.js.map": "/react-workshop-indegene/static/js/runtime-main.c46af51c.js.map",
     "static/css/2.af3c1da9.chunk.css": "/react-workshop-indegene/static/css/2.af3c1da9.chunk.css",
     "static/js/2.f3178dab.chunk.js": "/react-workshop-indegene/static/js/2.f3178dab.chunk.js",
     "static/js/2.f3178dab.chunk.js.map": "/react-workshop-indegene/static/js/2.f3178dab.chunk.js.map",
     "index.html": "/react-workshop-indegene/index.html",
-    "precache-manifest.d82e517ee3c67294d31d8d30b30178f4.js": "/react-workshop-indegene/precache-manifest.d82e517ee3c67294d31d8d30b30178f4.js",
+    "precache-manifest.c10bd46c7eef5c1fe24dd9b32b78ae31.js": "/react-workshop-indegene/precache-manifest.c10bd46c7eef5c1fe24dd9b32b78ae31.js",
     "service-worker.js": "/react-workshop-indegene/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/react-workshop-indegene/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.862f648a.chunk.css.map": "/react-workshop-indegene/static/css/main.862f648a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.f3178dab.chunk.js",
     "static/css/main.862f648a.chunk.css",
-    "static/js/main.8e622ee5.chunk.js"
+    "static/js/main.aae74cad.chunk.js"
   ]
 }
