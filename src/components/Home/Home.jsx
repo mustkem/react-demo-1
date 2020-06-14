@@ -24,10 +24,10 @@ function Home(props) {
         <div className="content-sec">
           <ul className="tabs">
             <li>
-              <NavLink to={`${path}/movies-info`}>Movies with info</NavLink>
+              <NavLink to={`${path}/movies-info`}>Movies With Info</NavLink>
             </li>
             <li>
-              <NavLink to={`${path}/movies-poster`}>Topics</NavLink>
+              <NavLink to={`${path}/movies-poster`}>Movies With Poster</NavLink>
             </li>
           </ul>
           <Switch>
