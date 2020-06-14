@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-workshop-indegene/static/css/main.bdbd297d.chunk.css",
+    "main.css": "/react-workshop-indegene/static/css/main.6ec52207.chunk.css",
     "main.js": "/react-workshop-indegene/static/js/main.aaafa038.chunk.js",
     "main.js.map": "/react-workshop-indegene/static/js/main.aaafa038.chunk.js.map",
     "runtime-main.js": "/react-workshop-indegene/static/js/runtime-main.c46af51c.js",
@@ -9,17 +9,17 @@
     "static/js/2.495188b4.chunk.js": "/react-workshop-indegene/static/js/2.495188b4.chunk.js",
     "static/js/2.495188b4.chunk.js.map": "/react-workshop-indegene/static/js/2.495188b4.chunk.js.map",
     "index.html": "/react-workshop-indegene/index.html",
-    "precache-manifest.9d432c420d5f4badd0b71b83b334af98.js": "/react-workshop-indegene/precache-manifest.9d432c420d5f4badd0b71b83b334af98.js",
+    "precache-manifest.dd5d54ef5a9a53b82be6c3e8eb946ef7.js": "/react-workshop-indegene/precache-manifest.dd5d54ef5a9a53b82be6c3e8eb946ef7.js",
     "service-worker.js": "/react-workshop-indegene/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/react-workshop-indegene/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.bdbd297d.chunk.css.map": "/react-workshop-indegene/static/css/main.bdbd297d.chunk.css.map",
+    "static/css/main.6ec52207.chunk.css.map": "/react-workshop-indegene/static/css/main.6ec52207.chunk.css.map",
     "static/js/2.495188b4.chunk.js.LICENSE.txt": "/react-workshop-indegene/static/js/2.495188b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c46af51c.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.495188b4.chunk.js",
-    "static/css/main.bdbd297d.chunk.css",
+    "static/css/main.6ec52207.chunk.css",
     "static/js/main.aaafa038.chunk.js"
   ]
 }
