@@ -16,10 +16,7 @@ function App() {
       <Router>
         <div className="App">
           <Switch>
-            <Route exact path="/">
-              <Home />
-            </Route>
-            <Route exact path="/react-workshop-indegene">
+            <Route path="/react-workshop-indegene">
               <Home />
             </Route>
           </Switch>

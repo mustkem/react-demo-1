@@ -1,24 +1,26 @@
 import httpInstance from "../../helpers/http-client";
 import { actionTypes } from "../action-types/action-types";
+import config from "../../config";
 
-export const onGetProducts = (data) => {
+export const onGetMovies = (data) => {
   return {
-    type: actionTypes.GET_PRODUCTS,
+    type: actionTypes.GET_MOVIES,
     payload: data,
   };
 };
 
 /* action returns a promise: We can use .then callback while calling this action.*/
 
-export const getProducts = (page) => (dispatch) => {
+export const getMovies = (page) => (dispatch) => {
+  if (!page) page = 1;
   return new Promise((res, rej) => {
-    dispatch(onGetProducts({ loading: true }));
+    dispatch(onGetMovies({ loading: true }));
     httpInstance({
       method: "get",
-      url: "/?s=x men&y=2000&apikey=f82e2f54",
+      url: `/?s=man&y=2000&apikey=${config.apikey}&page=${page}`,
     })
       .then(function (response) {
-        dispatch(onGetProducts({ ...response.data, loading: false }));
+        dispatch(onGetMovies({ ...response.data, loading: false }));
 
         res(response);
       })
@@ -29,22 +31,22 @@ export const getProducts = (page) => (dispatch) => {
   });
 };
 
-export const onGetProduct = (payload) => {
+export const onGetMovie = (payload) => {
   return {
-    type: actionTypes.GET_PRODUCT,
+    type: actionTypes.GET_MOVIE,
     payload,
   };
 };
 
-export const getProduct = (id) => (dispatch) => {
+export const getMovie = (id) => (dispatch) => {
   return new Promise((res, rej) => {
-    dispatch(onGetProduct({ loading: true }));
+    dispatch(onGetMovie({ loading: true }));
     httpInstance({
       method: "get",
       url: `/?i=${id}&plot=full&apikey=f82e2f54`,
     })
       .then(function (response) {
-        dispatch(onGetProduct({ ...response.data, loading: false }));
+        dispatch(onGetMovie({ ...response.data, loading: false }));
         res(response);
       })
       .catch(function (error) {

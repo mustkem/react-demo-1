@@ -3,20 +3,21 @@ import { path } from "ramda";
 
 import Home from "../components/Home/Home";
 
-import { getProducts, getProduct } from "../store/actions";
+import { getMovies, getMovie } from "../store/actions";
 
 const mapStateToProps = (state) => {
   return {
-    products: path(["products", "products", "Search"], state),
-    loading: path(["products", "products", "loading"], state),
-    product: path(["products", "product"], state),
+    movies: path(["movies", "movies", "Search"], state),
+    loading: path(["movies", "movies", "loading"], state),
+    movie: path(["movies", "movie"], state),
+    totalResults: path(["movies", "movies", "totalResults"], state),
   };
 };
 
 const mapDispatchToProps = (dispatch) => {
   return {
-    getProducts: (page) => dispatch(getProducts(page)),
-    getProduct: (id) => dispatch(getProduct(id)),
+    getMovies: (page) => dispatch(getMovies(page)),
+    getMovie: (id) => dispatch(getMovie(id)),
   };
 };
 

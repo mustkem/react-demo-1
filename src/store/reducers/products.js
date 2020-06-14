@@ -4,20 +4,20 @@ const initialState = {};
 
 export default function index(state = initialState, action) {
   switch (action.type) {
-    case actionTypes.GET_PRODUCTS: {
+    case actionTypes.GET_MOVIES: {
       return {
         ...state,
-        products: {
-          ...state.products,
+        movies: {
+          ...state.movies,
           ...action.payload,
         },
       };
     }
 
-    case actionTypes.GET_PRODUCT: {
+    case actionTypes.GET_MOVIE: {
       return {
         ...state,
-        product: {
+        movie: {
           ...action.payload,
         },
       };
