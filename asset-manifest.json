@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-workshop-indegene/static/css/main.6ec52207.chunk.css",
-    "main.js": "/react-workshop-indegene/static/js/main.aaafa038.chunk.js",
-    "main.js.map": "/react-workshop-indegene/static/js/main.aaafa038.chunk.js.map",
-    "runtime-main.js": "/react-workshop-indegene/static/js/runtime-main.c46af51c.js",
-    "runtime-main.js.map": "/react-workshop-indegene/static/js/runtime-main.c46af51c.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/react-workshop-indegene/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.495188b4.chunk.js": "/react-workshop-indegene/static/js/2.495188b4.chunk.js",
-    "static/js/2.495188b4.chunk.js.map": "/react-workshop-indegene/static/js/2.495188b4.chunk.js.map",
-    "index.html": "/react-workshop-indegene/index.html",
-    "precache-manifest.dd5d54ef5a9a53b82be6c3e8eb946ef7.js": "/react-workshop-indegene/precache-manifest.dd5d54ef5a9a53b82be6c3e8eb946ef7.js",
-    "service-worker.js": "/react-workshop-indegene/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/react-workshop-indegene/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.6ec52207.chunk.css.map": "/react-workshop-indegene/static/css/main.6ec52207.chunk.css.map",
-    "static/js/2.495188b4.chunk.js.LICENSE.txt": "/react-workshop-indegene/static/js/2.495188b4.chunk.js.LICENSE.txt"
+    "main.css": "/react-workshop-indegene/movies-info/static/css/main.6ec52207.chunk.css",
+    "main.js": "/react-workshop-indegene/movies-info/static/js/main.fecfd369.chunk.js",
+    "main.js.map": "/react-workshop-indegene/movies-info/static/js/main.fecfd369.chunk.js.map",
+    "runtime-main.js": "/react-workshop-indegene/movies-info/static/js/runtime-main.177f6cb5.js",
+    "runtime-main.js.map": "/react-workshop-indegene/movies-info/static/js/runtime-main.177f6cb5.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/react-workshop-indegene/movies-info/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.495188b4.chunk.js": "/react-workshop-indegene/movies-info/static/js/2.495188b4.chunk.js",
+    "static/js/2.495188b4.chunk.js.map": "/react-workshop-indegene/movies-info/static/js/2.495188b4.chunk.js.map",
+    "index.html": "/react-workshop-indegene/movies-info/index.html",
+    "precache-manifest.0cf8c46b7af82165b14635c6eb1b44cc.js": "/react-workshop-indegene/movies-info/precache-manifest.0cf8c46b7af82165b14635c6eb1b44cc.js",
+    "service-worker.js": "/react-workshop-indegene/movies-info/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/react-workshop-indegene/movies-info/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6ec52207.chunk.css.map": "/react-workshop-indegene/movies-info/static/css/main.6ec52207.chunk.css.map",
+    "static/js/2.495188b4.chunk.js.LICENSE.txt": "/react-workshop-indegene/movies-info/static/js/2.495188b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c46af51c.js",
+    "static/js/runtime-main.177f6cb5.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.495188b4.chunk.js",
     "static/css/main.6ec52207.chunk.css",
-    "static/js/main.aaafa038.chunk.js"
+    "static/js/main.fecfd369.chunk.js"
   ]
 }
