@@ -192,6 +192,7 @@ img[alt]:after {
 
 .pagination {
   display: flex;
+  margin-bottom: 200px;
 }
 .pagination li {
   padding: 10px;
